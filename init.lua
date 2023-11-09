@@ -1,3 +1,6 @@
+-- Set the leader key to space
+vim.g.mapleader = ' '
+
 -- This is your Neovim configuration file in Lua
 
 -- Set up packer.nvim for plugin management
